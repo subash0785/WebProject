@@ -1,0 +1,3 @@
+export const ADD_COUNTER = 'ADD_COUNTER';
+export const REMOVE_COUNTER = 'REMOVE_COUNTER';
+export const FETCH_JOB_SUCCESS = 'FETCH_JOB_SUCCESS';
